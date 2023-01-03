@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "coffee3000",
+    "slug": "coffee3000",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "coffee3000"
+}
