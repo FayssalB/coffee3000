@@ -5,7 +5,12 @@
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "icon": "./img/icon.png",
+    "splash": {
+      "image": "./img/splash.png",
+      "backgroundColor": "#222222"
+    }
   },
   "name": "coffee3000"
 }
